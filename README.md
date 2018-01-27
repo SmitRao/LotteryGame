@@ -1,0 +1,2 @@
+# LotteryGame
+Win the lottery >>> $
